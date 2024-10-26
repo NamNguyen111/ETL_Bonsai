@@ -1,0 +1,3 @@
+Scrapy(Extract part) run the best in PyCharm(Community/Professional), packed need: Scrapy(pip install scrapy)
+
+Use Jupyter notebook for the data cleaning part, packed need: pandas, faker

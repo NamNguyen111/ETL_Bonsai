@@ -1,0 +1,1 @@
+i use ChatGPT to clean it a bit before clean it using pandas so the format might be sightly different to the one from Scrapy
